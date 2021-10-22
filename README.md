@@ -1,2 +1,3 @@
-# crime.money
-crime.money
+# Crime.Money
+
+Coming soon :)
